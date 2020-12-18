@@ -1,6 +1,6 @@
 # TeachAI
 
-## DEMO[https://shadowcz007.github.io/teachAI/index.html]
+## [`DEMO]`(https://shadowcz007.github.io/teachAI/index.html)
 
 
 ## Use code
